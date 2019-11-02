@@ -1,7 +1,8 @@
 <div align="center">
-<h3>SCORM</h3>
+<h1>SCORM</h1>
 <br>
 <img src="https://raw.githubusercontent.com/tsevindik/scorm/master/img/scorm.png" alt="SCORM">
+<br>
 </div>
 
 **The SCORM (Shareable Content Object Reference Model)** is the most used international standard in the world for the creation of courses for distance education. SCORM courses allow a dynamic and interactive training approach, giving the possibility to create both static courses and dynamic activities that involve the learner through videos, interactive slides, dragging of objects, animations and audio.
