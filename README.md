@@ -1,7 +1,7 @@
 <div align="center">
 <h1>SCORM</h1>
 <br>
-<img src="https://raw.githubusercontent.com/tsevindik/scorm/master/img/scorm.png" alt="SCORM">
+<img src="https://raw.githubusercontent.com/tsevindik/scorm/master/img/scorm.png" width="400" alt="SCORM">
 <br><br>
 </div>
 
